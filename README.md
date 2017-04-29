@@ -58,7 +58,7 @@ x_lbd_free/
 |   └── img/
 |
 ├── Creative Tim License.pdf
-├── dashboard.html
+├── index.html
 ├── icons.html
 ├── maps.html
 ├── notifications.html
